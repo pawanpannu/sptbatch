@@ -4,6 +4,7 @@ public class pawan
 {
  public void method()
  {
+	 System.out.println("pawan");
 	 this.method1();
 	 System.out.println("default method");
  }
